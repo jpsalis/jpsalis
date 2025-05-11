@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpsalis
 - 👀 I’m interested in Embedded Development, PC Repair and FPV drones.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning ROS2_Control, ROS2, and Rust. 
 - 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/joseph-salisbury-351a18213/)
 
